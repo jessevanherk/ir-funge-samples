@@ -1,0 +1,10 @@
+This is a collection of small programs written in the befunge and trefunge esoteric programming languages. These are mainly for educational purposes. 
+
+These are best run with the rcfunge-98 interpreter.
+
+life: this is the game of life written in trefunge. 
+bubblesort: this will perform a bubblesort on input data. 
+SOSS: testing getting the second item from the stack stack (I think)
+TOSS: testing getting the top item from the stack stack (I think)
+showStacks: show contents of one or more stacks on the stack stack.
+transpose, transposed: a simple transposing quine, in both orientations.
